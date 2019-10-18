@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="Adder_16bits_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="Adder_16bits" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="3" />
+   <wvobject db_ref_id="1" fp_name="/Adder_16bits/IN1" type="array">
+      <obj_property name="ElementShortName">IN1[15:0]</obj_property>
+      <obj_property name="ObjectShortName">IN1[15:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/Adder_16bits/IN2" type="array">
+      <obj_property name="ElementShortName">IN2[15:0]</obj_property>
+      <obj_property name="ObjectShortName">IN2[15:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/Adder_16bits/OUT" type="array">
+      <obj_property name="ElementShortName">OUT[15:0]</obj_property>
+      <obj_property name="ObjectShortName">OUT[15:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+</wave_config>
