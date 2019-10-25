@@ -1,0 +1,10 @@
+#-----------------------------------------------------------
+# Vivado v2014.4 (64-bit)
+# SW Build 1071353 on Tue Nov 18 18:29:27 MST 2014
+# IP Build 1070531 on Tue Nov 18 01:10:18 MST 2014
+# Start of session at: Thu Oct 10 15:47:00 2019
+# Process ID: 11688
+# Log file: D:/Xilinx2014/Workspace/Comparator_3bits/Comparator_3bits.runs/synth_1/Comparator_3bits.vds
+# Journal file: D:/Xilinx2014/Workspace/Comparator_3bits/Comparator_3bits.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source Comparator_3bits.tcl
