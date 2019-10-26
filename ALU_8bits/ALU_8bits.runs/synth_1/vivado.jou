@@ -1,0 +1,10 @@
+#-----------------------------------------------------------
+# Vivado v2014.4 (64-bit)
+# SW Build 1071353 on Tue Nov 18 18:29:27 MST 2014
+# IP Build 1070531 on Tue Nov 18 01:10:18 MST 2014
+# Start of session at: Thu Oct 10 15:19:00 2019
+# Process ID: 4100
+# Log file: D:/Xilinx2014/Workspace/ALU_8bits/ALU_8bits.runs/synth_1/ALU_8bits.vds
+# Journal file: D:/Xilinx2014/Workspace/ALU_8bits/ALU_8bits.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source ALU_8bits.tcl

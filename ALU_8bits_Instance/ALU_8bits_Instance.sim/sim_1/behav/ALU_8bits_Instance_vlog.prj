@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  "../../../ALU_8bits_Instance.srcs/sources_1/new/Mux_4to1_8bits.v"
+verilog xil_defaultlib  "../../../ALU_8bits_Instance.srcs/sources_1/new/Sub_8bits.v"
+verilog xil_defaultlib  "../../../ALU_8bits_Instance.srcs/sources_1/new/Mul_8bits.v"
+verilog xil_defaultlib  "../../../ALU_8bits_Instance.srcs/sources_1/new/Div_8bits.v"
+verilog xil_defaultlib  "../../../ALU_8bits_Instance.srcs/sources_1/new/Add_8bits.v"
+verilog xil_defaultlib  "../../../ALU_8bits_Instance.srcs/sources_1/new/ALU_8bits_Instance.v"
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"

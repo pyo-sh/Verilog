@@ -1,0 +1,15 @@
+Determining compilation order of HDL files.
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Xilinx2014/Workspace/ALU_8bits_Instance/ALU_8bits_Instance.srcs/sources_1/new/Mux_4to1_8bits.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Mux_4to1_8bits
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Xilinx2014/Workspace/ALU_8bits_Instance/ALU_8bits_Instance.srcs/sources_1/new/Sub_8bits.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Sub_8bits
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Xilinx2014/Workspace/ALU_8bits_Instance/ALU_8bits_Instance.srcs/sources_1/new/Mul_8bits.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Mul_8bits
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Xilinx2014/Workspace/ALU_8bits_Instance/ALU_8bits_Instance.srcs/sources_1/new/Div_8bits.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Div_8bits
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Xilinx2014/Workspace/ALU_8bits_Instance/ALU_8bits_Instance.srcs/sources_1/new/Add_8bits.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Add_8bits
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Xilinx2014/Workspace/ALU_8bits_Instance/ALU_8bits_Instance.srcs/sources_1/new/ALU_8bits_Instance.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU_8bits_Instance
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Xilinx2014/Workspace/ALU_8bits_Instance/ALU_8bits_Instance.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
