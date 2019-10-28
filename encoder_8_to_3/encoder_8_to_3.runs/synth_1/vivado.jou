@@ -1,0 +1,10 @@
+#-----------------------------------------------------------
+# Vivado v2014.4 (64-bit)
+# SW Build 1071353 on Tue Nov 18 18:29:27 MST 2014
+# IP Build 1070531 on Tue Nov 18 01:10:18 MST 2014
+# Start of session at: Thu Oct 17 15:57:26 2019
+# Process ID: 6024
+# Log file: D:/Xilinx2014/Workspace/encoder_8_to_3/encoder_8_to_3.runs/synth_1/encoder_8_to_3.vds
+# Journal file: D:/Xilinx2014/Workspace/encoder_8_to_3/encoder_8_to_3.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source encoder_8_to_3.tcl
