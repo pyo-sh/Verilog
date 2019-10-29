@@ -1,0 +1,12 @@
+Vivado Simulator 2014.4
+Copyright 1986-1999, 2001-2014 Xilinx, Inc. All Rights Reserved.
+Running: D:/Xilinx2014/Vivado/2014.4/bin/unwrapped/win64.o/xelab.exe -wto bfc0a49243c54ad193977f64037278b0 --debug typical --relax -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot D_FlipFlop_behav xil_defaultlib.D_FlipFlop xil_defaultlib.glbl -log elaborate.log 
+Multi-threading is on. Using 6 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.D_FlipFlop
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot D_FlipFlop_behav
