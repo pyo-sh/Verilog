@@ -1,0 +1,5 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  "../../../Mux_2to1_8bits.srcs/sources_1/new/Mux_2to1_8bits.v"
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
