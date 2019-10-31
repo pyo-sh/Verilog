@@ -1,0 +1,5 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  "../../../InitialBlockTb1.srcs/sim_1/new/InitialBlockTb1.v"
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
