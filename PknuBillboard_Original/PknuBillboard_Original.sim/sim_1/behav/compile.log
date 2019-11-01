@@ -1,0 +1,7 @@
+Determining compilation order of HDL files.
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Xilinx2014/Workspace/PknuBillboard_Original/PknuBillboard_Original.srcs/sources_1/new/PknuBillboard_Original.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PknuBillboard_Original
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Xilinx2014/Workspace/PknuBillboard_Original/PknuBillboard_Original.srcs/sim_1/new/PknuBillboard_OriginTb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PknuBillboard_OriginTb
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Xilinx2014/Workspace/PknuBillboard_Original/PknuBillboard_Original.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

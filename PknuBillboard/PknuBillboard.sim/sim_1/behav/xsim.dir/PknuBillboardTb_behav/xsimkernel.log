@@ -1,0 +1,7 @@
+Running: xsim.dir/PknuBillboardTb_behav/xsimk.exe -simmode gui -wdb PknuBillboardTb_behav.wdb -simrunnum 0 -socket 52702
+Design successfully loaded
+Design Loading Memory Usage: 24544 KB (Peak: 24544 KB)
+Design Loading CPU Usage: 953 ms
+Simulation completed
+Simulation Memory Usage: 24868 KB (Peak: 24868 KB)
+Simulation CPU Usage: 1014 ms

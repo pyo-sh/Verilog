@@ -1,0 +1,1 @@
+-wto "c7955b1e12a742ae800ddb3f67701834" --debug "typical" --relax -L "xil_defaultlib" -L "unisims_ver" -L "unimacro_ver" -L "secureip" --snapshot "PknuBillboard_OriginTb_behav" "xil_defaultlib.PknuBillboard_OriginTb" "xil_defaultlib.glbl" -log "elaborate.log" 
