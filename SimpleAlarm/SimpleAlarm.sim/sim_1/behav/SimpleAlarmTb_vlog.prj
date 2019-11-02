@@ -1,0 +1,6 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  "../../../SimpleAlarm.srcs/sources_1/new/SimpleAlarm.v"
+verilog xil_defaultlib  "../../../SimpleAlarm.srcs/sim_1/new/SimpleAlarmTb.v"
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
