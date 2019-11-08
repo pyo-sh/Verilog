@@ -1,0 +1,7 @@
+Determining compilation order of HDL files.
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Xilinx2014/Workspace/SimpleAlarm/SimpleAlarm.srcs/sources_1/new/SimpleAlarm.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module SimpleAlarm
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Xilinx2014/Workspace/SimpleAlarm/SimpleAlarm.srcs/sim_1/new/SimpleAlarmTb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module SimpleAlarmTb
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Xilinx2014/Workspace/SimpleAlarm/SimpleAlarm.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
