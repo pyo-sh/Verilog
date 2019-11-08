@@ -1,0 +1,7 @@
+Running: xsim.dir/TrafficSignalController_WETb_behav/xsimk.exe -simmode gui -wdb TrafficSignalController_WETb_behav.wdb -simrunnum 0 -socket 54288
+Design successfully loaded
+Design Loading Memory Usage: 24636 KB (Peak: 24636 KB)
+Design Loading CPU Usage: 828 ms
+Simulation completed
+Simulation Memory Usage: 24964 KB (Peak: 24964 KB)
+Simulation CPU Usage: 828 ms

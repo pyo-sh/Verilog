@@ -1,0 +1,7 @@
+Determining compilation order of HDL files.
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Xilinx2014/Workspace/TrafficSignalController/TrafficSignalController.srcs/sources_1/new/TrafficSignalController.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module TrafficSignalController
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Xilinx2014/Workspace/TrafficSignalController/TrafficSignalController.srcs/sim_1/new/TrafficSignalControllerTb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module TrafficSignalControllerTb
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Xilinx2014/Workspace/TrafficSignalController/TrafficSignalController.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

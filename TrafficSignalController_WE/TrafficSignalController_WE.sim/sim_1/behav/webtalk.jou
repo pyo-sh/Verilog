@@ -1,0 +1,10 @@
+#-----------------------------------------------------------
+# Webtalk v2014.4 (64-bit)
+# SW Build 1071353 on Tue Nov 18 18:29:27 MST 2014
+# IP Build 1070531 on Tue Nov 18 01:10:18 MST 2014
+# Start of session at: Thu Nov 07 16:46:19 2019
+# Process ID: 6680
+# Log file: D:/Xilinx2014/Workspace/TrafficSignalController_WE/TrafficSignalController_WE.sim/sim_1/behav/webtalk.log
+# Journal file: D:/Xilinx2014/Workspace/TrafficSignalController_WE/TrafficSignalController_WE.sim/sim_1/behav\webtalk.jou
+#-----------------------------------------------------------
+source D:/Xilinx2014/Workspace/TrafficSignalController_WE/TrafficSignalController_WE.sim/sim_1/behav/xsim.dir/TrafficSignalController_WETb_behav/webtalk/xsim_webtalk.tcl -notrace

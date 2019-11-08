@@ -1,0 +1,13 @@
+Vivado Simulator 2014.4
+Copyright 1986-1999, 2001-2014 Xilinx, Inc. All Rights Reserved.
+Running: D:/Xilinx2014/Vivado/2014.4/bin/unwrapped/win64.o/xelab.exe -wto c831cca5eb7943fc9b170e864ca9681e --debug typical --relax -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot TrafficSignalController_WETb_behav xil_defaultlib.TrafficSignalController_WETb xil_defaultlib.glbl -log elaborate.log 
+Multi-threading is on. Using 6 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.TrafficSignalController_WE
+Compiling module xil_defaultlib.TrafficSignalController_WETb
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot TrafficSignalController_WETb_behav
