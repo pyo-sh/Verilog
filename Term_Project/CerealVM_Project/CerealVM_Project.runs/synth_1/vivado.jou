@@ -1,0 +1,10 @@
+#-----------------------------------------------------------
+# Vivado v2014.4 (64-bit)
+# SW Build 1071353 on Tue Nov 18 18:29:27 MST 2014
+# IP Build 1070531 on Tue Nov 18 01:10:18 MST 2014
+# Start of session at: Wed Dec 18 22:55:35 2019
+# Process ID: 13916
+# Log file: D:/Xilinx2014/Workspace/realProject/realProject.runs/synth_1/VendingM.vds
+# Journal file: D:/Xilinx2014/Workspace/realProject/realProject.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source VendingM.tcl

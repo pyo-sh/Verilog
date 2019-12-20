@@ -1,0 +1,33 @@
+Vivado Simulator 2014.4
+Copyright 1986-1999, 2001-2014 Xilinx, Inc. All Rights Reserved.
+Running: D:/Xilinx2014/Vivado/2014.4/bin/unwrapped/win64.o/xelab.exe -wto 65cc77b0e35b44e29590b16e8a7b340c --debug typical --relax -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot VendingMTb_behav xil_defaultlib.VendingMTb xil_defaultlib.glbl -log elaborate.log 
+Multi-threading is on. Using 6 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "D:/Xilinx2014/Workspace/realProject/realProject.srcs/sources_1/new/VendingM.v" Line 1. Module VendingM doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/Xilinx2014/Workspace/realProject/realProject.srcs/sources_1/new/Controller.v" Line 1. Module Controller doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/Xilinx2014/Workspace/realProject/realProject.srcs/sources_1/new/Input_Coin.v" Line 1. Module Input_Coin doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/Xilinx2014/Workspace/realProject/realProject.srcs/sources_1/new/BCD_output.v" Line 1. Module BCD_output doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/Xilinx2014/Workspace/realProject/realProject.srcs/sources_1/new/Chef.v" Line 1. Module Chef doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/Xilinx2014/Workspace/realProject/realProject.srcs/sources_1/new/Music.v" Line 1. Module Music doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/Xilinx2014/Workspace/realProject/realProject.srcs/sources_1/new/Screen.v" Line 1. Module Screen doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/Xilinx2014/Workspace/realProject/realProject.srcs/sources_1/new/VendingM.v" Line 1. Module VendingM doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/Xilinx2014/Workspace/realProject/realProject.srcs/sources_1/new/Controller.v" Line 1. Module Controller doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/Xilinx2014/Workspace/realProject/realProject.srcs/sources_1/new/Input_Coin.v" Line 1. Module Input_Coin doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/Xilinx2014/Workspace/realProject/realProject.srcs/sources_1/new/BCD_output.v" Line 1. Module BCD_output doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/Xilinx2014/Workspace/realProject/realProject.srcs/sources_1/new/Chef.v" Line 1. Module Chef doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/Xilinx2014/Workspace/realProject/realProject.srcs/sources_1/new/Music.v" Line 1. Module Music doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/Xilinx2014/Workspace/realProject/realProject.srcs/sources_1/new/Screen.v" Line 1. Module Screen doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.Controller
+Compiling module xil_defaultlib.BCD_output
+Compiling module xil_defaultlib.Input_Coin
+Compiling module xil_defaultlib.Chef
+Compiling module xil_defaultlib.Music
+Compiling module xil_defaultlib.Screen
+Compiling module xil_defaultlib.VendingM
+Compiling module xil_defaultlib.VendingMTb
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot VendingMTb_behav

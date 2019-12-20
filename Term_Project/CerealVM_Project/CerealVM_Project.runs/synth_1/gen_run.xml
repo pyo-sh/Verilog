@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="synth_1" LaunchPart="xc7z020clg484-1" LaunchTime="1576677330">
+  <File Type="RUN-CONSTRS" Name="$PDATADIR/runs/synth_1/constrs_in.xml"/>
+  <File Type="RDS-DCP" Name="VendingM.dcp"/>
+  <File Type="RUN-SRCS" Name="$PDATADIR/runs/synth_1/sources.xml"/>
+  <File Type="RDS-UTIL-PB" Name="VendingM_utilization_synth.pb"/>
+  <File Type="RUN-STRAT" Name="$PDATADIR/runs/synth_1/synth_1.psg"/>
+  <File Type="PA-TCL" Name="VendingM.tcl"/>
+  <File Type="RDS-PROPCONSTRS" Name="VendingM_drc_synth.rpt"/>
+  <File Type="RDS-RDS" Name="VendingM.vds"/>
+  <File Type="RDS-UTIL" Name="VendingM_utilization_synth.rpt"/>
+  <File Type="VDS-TIMINGSUMMARY" Name="VendingM_timing_summary_synth.rpt"/>
+  <File Type="VDS-TIMING-PB" Name="VendingM_timing_summary_synth.pb"/>
+  <File Type="VDS-HWDEF" Name="VendingM.hwdef"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/BCD_output.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../realProject/realProject.srcs/sources_1/new/BCD_output.v"/>
+        <Attr Name="ImportTime" Val="1576677311"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/Screen.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../realProject/realProject.srcs/sources_1/new/Screen.v"/>
+        <Attr Name="ImportTime" Val="1576676288"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/Music.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../realProject/realProject.srcs/sources_1/new/Music.v"/>
+        <Attr Name="ImportTime" Val="1576674705"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/Controller.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../realProject/realProject.srcs/sources_1/new/Controller.v"/>
+        <Attr Name="ImportTime" Val="1576676516"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/Chef.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../realProject/realProject.srcs/sources_1/new/Chef.v"/>
+        <Attr Name="ImportTime" Val="1576676000"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/Input_Coin.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../realProject/realProject.srcs/sources_1/new/Input_Coin.v"/>
+        <Attr Name="ImportTime" Val="1576677324"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/VendingM.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../realProject/realProject.srcs/sources_1/new/VendingM.v"/>
+        <Attr Name="ImportTime" Val="1576676705"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="VendingM"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2014"/>
+    <Step Id="synth_design"/>
+  </Strategy>
+</GenRun>
